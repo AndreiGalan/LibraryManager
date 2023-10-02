@@ -1,0 +1,129 @@
+#xButton{
+    -fx-background-color: #a83234;
+    -fx-text-fill: #ffffff;
+}
+
+#xButton:hover{
+    -fx-background-color: #000000;
+    -fx-text-fill: #ffffff;
+}
+
+#minButton{
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #000000;
+}
+
+#minButton:hover{
+    -fx-background-color: #000000;
+    -fx-text-fill: #ffffff;
+}
+
+#addBookButton{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#addBookButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#addAuthorButton{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#addAuthorButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#searchGenreButton{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#searchGenreButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#searchAuthorButton{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#searchAuthorButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#borrowButton{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#borrowButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#returnButton{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#returnButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#searchTitleButton{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#searchTitleButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#delete{
+    -fx-background-color:  #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#delete:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#backButton{
+    -fx-background-color: #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#backButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#submitButton{
+    -fx-background-color: #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#submitButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
+
+#searchButton{
+    -fx-background-color: #714433;
+    -fx-text-fill: #ffffff;
+}
+
+#searchButton:hover{
+    -fx-background-color: #d68438;
+    -fx-text-fill: #ffffff;
+}
